@@ -5,11 +5,11 @@
 
 I'm Wincohax, an average teenager who is trying his best to not end up on a couch.
 
-I started using computers since I was very young and I always liked the idea of customize my system and learn how things work.
+I started using computers when I was very young and I always liked the idea of customizing my system and learning how things work.
 
-_Most of my childhood I spent it on my PC playing w/ VMS using VirtualBox Or VMWARE._
+_I spent Most of my childhood on my PC playing w/ VMS using VirtualBox Or VMWARE._
 
-Nowadays I switched to **Linux** for a more pleasent exprience and **_I don't regert it._** Now I'm trying to get into Web or Software development.
+Nowadays I switched to **Linux** for a more pleasant exprience and **_I don't regret it._** Now I'm trying to get into Web or Software development.
 
 # Things that I'm good at
 
@@ -21,11 +21,11 @@ Nowadays I switched to **Linux** for a more pleasent exprience and **_I don't re
 
 - osu! (ig).
 
-- Procastinating (This MD is a pretty good example).
+- Procrastinating (This MD is a pretty good example).
 
 - Video Editing (Kdenlive, Davinci Resolve).
 
-# Things That I would love to learn (Or I'm Learing)
+# Things That I would love to learn (Or I'm Learning)
 
 - Bash
 
@@ -45,9 +45,9 @@ Nowadays I switched to **Linux** for a more pleasent exprience and **_I don't re
 
 # What's Next?
 
-I'm in the proccess of finishing high school and also on the way to get my english certification, my idea is go to college or get a way of getting some kind of income.
+I'm in the process of finishing high school and also on the way to getting my english certification, my idea is to go to college or get a way of getting some kind of income.
 
-I would like to create some project that can be helpful for people, I also love the idea of Open Source so I'll mostly publish every software that I will make here on github.
+I would like to create some projects that can be helpful for people, I also love the idea of Open Source so I'll mostly publish every software that I will make here on Github.
 
 I'm not that into commercial profit but I'm sure I'll get over it (?.
 
@@ -55,6 +55,6 @@ I'm not that into commercial profit but I'm sure I'll get over it (?.
 
 You can find me on almost every existing social platform.
 
-if you want to contact me directly you can via Twitter DM, Discord DM (Wincohax#9423) or E-mail: wincohax@gmail.com
+if you want to contact me directly you can via Twitter DM, Discord DM (Wincohax#9423), or E-mail: wincohax@gmail.com
 
 [Find me!](https://linktr.ee/Wincohax)
