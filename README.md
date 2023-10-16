@@ -5,11 +5,11 @@
 
 I'm Wincohax, an average teenager who is trying his best to not end up on a couch.
 
-I started using computers when I was very young and I always liked the idea of customizing my system and learning how things work.
+I started using computers when I was very young and always liked the idea of customizing my system and learning how things work.
 
 _I spent Most of my childhood on my PC playing w/ VMS using VirtualBox Or VMWARE._
 
-Nowadays I switched to **Linux** for a more pleasant exprience and **_I don't regret it._** Now I'm trying to get into Web or Software development.
+Nowadays I switched to **Linux** for a more pleasant experience and **_I don't regret it._** Now I'm trying to get into Web or Software development.
 
 # Things that I'm good at
 
@@ -17,7 +17,7 @@ Nowadays I switched to **Linux** for a more pleasant exprience and **_I don't re
 
 - Minecraft.
 
-- English (people say I speak english better than my native language 🪦).
+- English (people say I speak English better than my native language 🪦).
 
 - osu! (ig).
 
@@ -55,6 +55,6 @@ I'm not that into commercial profit but I'm sure I'll get over it (?.
 
 You can find me on almost every existing social platform.
 
-if you want to contact me directly you can via Twitter DM, Discord DM (Wincohax#9423), or E-mail: wincohax@gmail.com
+if you want to contact me directly you can via 𝕏 DM, Discord DM (wincohax), or E-mail: wincohax@gmail.com
 
 [Find me!](https://linktr.ee/Wincohax)
