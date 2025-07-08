@@ -15,7 +15,7 @@ Nowadays I switched to **Linux** for a more pleasant experience and **_I don't r
 
 - osu!
 
-- Trobleshooting 
+- Troubleshooting 
 
 - Video Editing (Kdenlive, Davinci Resolve).
 
