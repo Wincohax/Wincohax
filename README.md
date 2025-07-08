@@ -13,15 +13,9 @@ Nowadays I switched to **Linux** for a more pleasant experience and **_I don't r
 
 # Things that I'm good at
 
-- Tech Support (Fr 💀).
+- osu!
 
-- Minecraft.
-
-- English (people say I speak English better than my native language 🪦).
-
-- osu! (ig).
-
-- Procrastinating (This MD is a pretty good example).
+- Trobleshooting 
 
 - Video Editing (Kdenlive, Davinci Resolve).
 
@@ -30,6 +24,10 @@ Nowadays I switched to **Linux** for a more pleasant experience and **_I don't r
 - Bash
 
 - C (On it)
+
+- C++ (On it)
+
+- Rust
 
 - C# (**_Dropped_**, I'll take it over at some point)
 
@@ -43,15 +41,9 @@ Nowadays I switched to **Linux** for a more pleasant experience and **_I don't r
 
 - Kotlin (**_Dropped_**)
 
-- Rust
-
 # What's Next?
 
-I'm in the process of finishing high school and also on the way to getting my English certification, my idea is to go to college or get a way of getting some kind of income.
-
-I would like to create some projects that can be helpful for people, I also love the idea of Open Source so I'll mostly publish every software that I will make here on Github.
-
-I'm not that into commercial profit but I'm sure I'll get over it (?.
+Get into Reverse Engineering.
 
 # Where am I?
 
