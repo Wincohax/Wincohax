@@ -9,7 +9,7 @@ I started using computers when I was very young and always liked the idea of cus
 
 _I spent Most of my childhood on my PC playing w/ VMS using VirtualBox Or VMWARE._
 
-Nowadays I switched to **Linux** for a more pleasant experience and **_I don't regret it._** Now I'm trying to get into Web or Software development.
+Nowadays I switched to **Linux** for a more pleasant experience and **_I don't regret it._** Now I'm trying to get into Low Level Software development.
 
 # Things that I'm good at
 
@@ -27,17 +27,11 @@ Nowadays I switched to **Linux** for a more pleasant experience and **_I don't r
 
 - C++ (On it)
 
+- Java
+
 - Rust
 
-- C# (**_Dropped_**, I'll take it over at some point)
-
-- CSS (**_Dropped_**)
-
 - GTK 
-
-- HTML (**_Dropped_**)
-
-- JS (**_Dropped_**)
 
 - Kotlin (**_Dropped_**)
 
