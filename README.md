@@ -43,6 +43,6 @@ Get into Reverse Engineering.
 
 You can find me on almost every existing social platform.
 
-if you want to contact me directly you can via 𝕏 DM, Discord DM (wincohax), or E-mail: wincohax@gmail.com
+if you want to contact me directly you can via 𝕏 DM, Discord DM (wincohax), or E-mail: wincohax@proton.me
 
 [Find me!](https://linktr.ee/Wincohax)
