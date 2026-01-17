@@ -21,23 +21,23 @@ Nowadays I switched to **Linux** for a more pleasant experience and **_I don't r
 
 # Things That I would love to learn (Or I'm Learning)
 
-- Bash
-
 - C (On it)
 
 - C++ (On it)
 
-- Java
+- Java (Being forced to)
 
-- Rust
+- Rust 
 
 - GTK 
 
-- Kotlin (**_Dropped_**)
+- Kotlin 
+
+- Bash
 
 # What's Next?
 
-Get into Reverse Engineering.
+Get into Reverse Engineering, OS Research.
 
 # Where am I?
 
